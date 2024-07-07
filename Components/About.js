@@ -68,9 +68,9 @@ function About() {
                     </Grid>
                     <Grid item md={8} xs={12} sx={{ padding: "0px 0px", mt: 4, color: "text.primary" }} >
                         <Typography variant='h4' sx={{ fontWeight: "bolder" }}>Ahmed Fakhry</Typography>
-                        {/* <Typography variant='h5' sx={{ my: 2, fontWeight: "bold", }} data-aos="fade-left" data-aos-delay="500">
+                        <Typography variant='h5' sx={{ my: 2, fontWeight: "bold", }} data-aos="fade-left" data-aos-delay="500">
                             AI Research Scientist at Vision & Intelligence Systems Lab
-                        </Typography> */}
+                        </Typography>
                         <Typography variant='h6' sx={{ my: 3, color: "text.secondary" }} data-aos="fade-left" data-aos-once="true" >
                             Analytical and detail-oriented professional pursuing a master’s degree in computer & information systems with 4+ years of experience leading machine learning projects, developing predictive models, and building high-performance teams. Expertise in driving model enhancements for anomaly detection, disease prediction, and document digitization. Proven ability to automate business processes and resolve complex problems with a record of achieving significant reductions in CER by using few-shot/meta-learning techniques. Adept at raising data integrity and model performance across academic and commercial settings by collaborating with cross-functional teams and stakeholders on data-driven insights.
 
