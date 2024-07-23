@@ -31,7 +31,7 @@ function Skill() {
                     <Grid item xs={12} sm={6} md={6} sx={{ display: "flex", justifyContent: "center", flexDirection: "column", mt: "30px" }}>
                         <ShareIcon sx={{ padding: "20px", textAlign: "center", border: "2px solid white", borderRadius: "50%", backgroundColor: "white", color: "secondary.main", width: "120px", height: "120px", overflow: "hidden", mx: "auto" }} />
                         <Typography variant='h4' sx={{ textAlign: "center", my: 2, fontWeight: "bold" }}>Deep Learning Frameworks</Typography>
-                        <Typography variant='h6' sx={{ textAlign: "center" }}>Tensorflow, Keras, Pytorch
+                        <Typography variant='h6' sx={{ textAlign: "center" }}>Tensorflow, Keras, Pytorch, Scikit-learn, Pandas, NumPy, Matplotlib, SciPy
                         </Typography>
                     </Grid>
                     <Grid item xs={12} sm={6} md={6} sx={{ display: "flex", justifyContent: "center", flexDirection: "column", mt: "30px" }}>
