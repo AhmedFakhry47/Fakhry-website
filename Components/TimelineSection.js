@@ -261,8 +261,8 @@ function TimelineSection() {
                                 Faculty of Engineering
                             </Typography>
                             <Typography variant='h6' sx={{ fontWeight: "bold" }}>Alexandria</Typography>
-                            <Typography variant='h6'>
-                                • Cumulative Grade: 72.8% (Good)</Typography>
+                            // <Typography variant='h6'>
+                            //     • Cumulative Grade: 72.8% (Good)</Typography>
                         </TimelineContent>
                     </TimelineItem>
                 </Timeline>
