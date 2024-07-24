@@ -34,7 +34,7 @@ function Landing() {
                         />
                     </Box>
                     <Typography sx={{ color: "white", mt: "30px", fontWeight: "bold" }} className={styles.landingname}>Ahmed Fakhry</Typography>
-                    <Typography sx={{ color: "white", fontStyle: "italic" }} className={styles.landingtext}>Machine Learning Developer at <span className={styles.colorfont}>OpenAI</span> </Typography>
+                    <Typography sx={{ color: "white", fontStyle: "italic" }} className={styles.landingtext}>AI Research Scientist <span className={styles.colorfont}>KNU</span> </Typography>
 
                     <Box gap="15px" my="20px" justifyContent="center" sx={{ display: { xs: "flex", md: "none" } }}>
                         {/* <a href="https://www.facebook.com/2447.nada.samir">
