@@ -69,7 +69,7 @@ function About() {
                     <Grid item md={8} xs={12} sx={{ padding: "0px 0px", mt: 4, color: "text.primary" }} >
                         <Typography variant='h4' sx={{ fontWeight: "bolder" }}>Ahmed Fakhry</Typography>
                         <Typography variant='h6' sx={{ my: 3, color: "text.secondary" }} data-aos="fade-left" data-aos-once="true" >
-                            Analytical and detail-oriented professional pursuing a master’s degree in computer & information systems with 4+ years of experience leading machine learning projects, developing predictive models, and building high-performance teams. Expertise in driving model enhancements for anomaly detection, disease prediction, and document digitization. Proven ability to automate business processes and resolve complex problems with a record of achieving significant reductions in CER by using few-shot/meta-learning techniques. Adept at raising data integrity and model performance across academic and commercial settings by collaborating with cross-functional teams and stakeholders on data-driven insights.
+                            Data scientist and AI researcher with over four years of experience in leading machine learning and deep learning projects, creating generative and predictive models, and building high-performing teams. Demonstrated proficiency in problem-solving, business process optimization, and developing automated AI agents. Capable of working with stakeholders and cross-functional teams to improve data integrity and model performance in both academic and commercial contexts using data-driven insights.
 
 
                         </Typography>
