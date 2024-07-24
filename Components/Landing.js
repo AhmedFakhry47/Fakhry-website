@@ -24,11 +24,11 @@ function Landing() {
                 <Nav />
 
                 <Box sx={{ display: "flex", flexDirection: "column", justifyContent: "center", textAlign: "center", }} className={styles.landingInfoBox}>
-                    <Box border="6px solid white" borderRadius="50%" width="250px" height="250px" overflow="hidden" margin="auto" padding={"0px 0px"} alighItems="contain" justifyContent="center" >
+                    <Box border="6px solid white" borderRadius="50%" width="300px" height="300px" overflow="hidden" margin="auto" padding={"0px 0px"} alighItems="contain" justifyContent="center" >
                         <Image
                             src={profile}
                             alt="Picture of the author"
-                            width={290}
+                            width={300}
                         // height={250}
 
                         />
