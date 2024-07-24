@@ -35,12 +35,10 @@ function About() {
                                 <Image
                                     src={profile}
                                     alt="Picture of the author"
-                                    width={200}
+                                    // width={200}
                                 // height={300}
-                                    style={{
-                                      objectFit: "cover",
-                                      objectPosition: "center",
-                                    }}
+                                    objectFit: "cover",
+                                    objectPosition: "center",
                                 />
                             </Box >
 
