@@ -4,7 +4,7 @@ export const projectsdata = [{
     "id": 1,
     "title": "Digitization of Handwritten Documents",
     "body": "DEEP LEARNING ‐ CLOSED SOURCE",
-    "image": "https://raw.githubusercontent.com/AhmedFakhry47/Fakhry-website/main/public/assets/ocr2.png",
+    "image": "https://raw.githubusercontent.com/AhmedFakhry47/Fakhry-website/main/public/assets/ocr4.png",
     // "image": "https://static.vecteezy.com/system/resources/previews/002/551/051/original/eye-cyber-circuit-future-technology-concept-background-free-vector.jpg",
     "pdf": "",
     "code": "",
