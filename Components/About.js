@@ -37,7 +37,6 @@ function About() {
                                     alt="Picture of the author"
                                     // width={200}
                                 // height={300}
-                                    layout="fill"
                                     objectFit= "cover"
                                     objectPosition= "center"
                                 />
