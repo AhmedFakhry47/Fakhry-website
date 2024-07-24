@@ -58,7 +58,7 @@ function TimelineSection() {
                             <Typography variant='h6'>
                                 <ul>
                                     <li>Working on the tether project.</li>
-                                    <li>Helping reinforcement learning models to fine‐tune and enhance chatgpt performance.</li>
+                                    <li>Worked on the Reinforcement Learning Human Feedback models.</li>
                                 </ul></Typography>
                         </TimelineContent>
                     </TimelineItem>
