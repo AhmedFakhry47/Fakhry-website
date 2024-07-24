@@ -35,7 +35,7 @@ function About() {
                                 <Image
                                     src={profile}
                                     alt="Picture of the author"
-                                    // width={200}
+                                    width={150}
                                 // height={300}
                                     objectFit= "none"
                                     objectPosition= "center"
