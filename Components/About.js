@@ -3,7 +3,7 @@ import { Box, Tabs, Tab, Typography, LinkTab, Grid, Button, Container, Paper, Li
 import styles from '../src/styles/Home.module.css'
 import { ColorModeContext } from '../public/theme'
 import { styled, useTheme, alpha } from '@mui/material/styles';
-import profile from '../public/assets/formalpic.JPG'
+import profile from '../public/assets/formalpic.png'
 import Image from 'next/image'
 import DoneIcon from '@mui/icons-material/Done';
 import SchoolIcon from '@mui/icons-material/School';
