@@ -2,9 +2,10 @@
 export const projectsdata = [{
 
     "id": 1,
-    "title": "Digital Eye",
+    "title": "Digitization of Handwritten Documents",
     "body": "DEEP LEARNING ‐ CLOSED SOURCE",
-    "image": "https://static.vecteezy.com/system/resources/previews/002/551/051/original/eye-cyber-circuit-future-technology-concept-background-free-vector.jpg",
+    "image":https://drive.google.com/file/d/1s0BrdvKEjIw8G808jAoJ-ycHNXbtKs2N/view?usp=sharing,
+    // "image": "https://static.vecteezy.com/system/resources/previews/002/551/051/original/eye-cyber-circuit-future-technology-concept-background-free-vector.jpg",
     "pdf": "",
     "code": "",
     "poster": ""
