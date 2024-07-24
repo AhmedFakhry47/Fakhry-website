@@ -2,7 +2,7 @@ import React from 'react'
 import { Box, Typography, Divider, Avatar } from '@mui/material'
 import styles from '../src/styles/Home.module.css'
 import Image from 'next/image'
-import profile from '../public/assets/formalpic.JPG'
+import profile from '../public/assets/formalpic.png'
 import background from '../public/assets/city.jpg'
 import { ColorModeContext } from '../public/theme'
 import { styled, useTheme, alpha } from '@mui/material/styles';
