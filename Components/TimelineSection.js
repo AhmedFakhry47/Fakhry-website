@@ -20,6 +20,7 @@ import { FcGoogle } from 'react-icons/fc'
 import Image from 'next/image'
 import alexunversity from '../public/assets/download.jpeg'
 import { NoEncryption } from '@mui/icons-material';
+import knuphoto from '../public/assets/timeline/knu.png'
 import openaiphoto from '../public/assets/timeline/OpenAI_Logo_(2).svg.png'
 import perphoto from '../public/assets/timeline/download.jpeg'
 import bergenphoto from '../public/assets/timeline/Uni-Bergen-emblem.png'
@@ -37,6 +38,61 @@ function TimelineSection() {
                 <Typography variant='h6' sx={{ textAlign: "center" }}>A short summary of my work experience..</Typography>
                 <Timeline position="alternate" sx={{ my: 5, display: { xs: "none", sm: "block" } }}>
                     <TimelineItem>
+                        <TimelineSeparator >
+                            <TimelineDot color="primary" variant="outlined" sx={{ width: "150px", height: "150px", overflow: "hidden", border: "2px solid #bdbdbd", padding: "15px 5px" }}>
+                                <Image
+                                    src={knuphoto}
+                                    alt="Picture of the author"
+                                    width={130}
+
+                                />
+                            </TimelineDot>
+                            <TimelineConnector sx={{ height: "100px" }} />
+                        </TimelineSeparator>
+                        <TimelineContent sx={{ py: '12px', px: 2 }}>
+                            <Typography variant='subtitle1' sx={{ color: "text.secondary" }}>Sep 2023 ‐ Now</Typography>
+                            <Typography variant='h5' sx={{ fontWeight: "bold" }}>AI Research Scientist</Typography>
+                            <Typography variant="h4" component="span" sx={{ color: "secondary.main", fontWeight: "bold" }}>
+                                OpenAI
+                            </Typography>
+                            <Typography variant='h6' sx={{ fontWeight: "bold" }}>Daegu, South Korea</Typography>
+                            <Typography variant='h6'>
+                                <ul>
+                                    <li>Reduce potential security threats by researching and implementing few-shot and meta-learning techniques to train an
+anomaly detection system for surveillance aimed at identifying illegal actions.</li>
+                                    <li>Collaborate on multiple surveillance projects with Korean research institutes and private companies to develop
+innovative technologies and optimize existing surveillance systems.</li>
+                                </ul></Typography>
+                        </TimelineContent>
+                    </TimelineItem>
+                    <TimelineItem>
+                        <TimelineSeparator >
+                            <TimelineDot color="primary" variant="outlined" sx={{ width: "150px", height: "150px", overflow: "hidden", border: "2px solid #bdbdbd", padding: "15px 5px" }}>
+                                <Image
+                                    src={openaiphoto}
+                                    alt="Picture of the author"
+                                    width={130}
+
+                                />
+                            </TimelineDot>
+                            <TimelineConnector sx={{ height: "100px" }} />
+                        </TimelineSeparator>
+                        <TimelineContent sx={{ py: '12px', px: 2 }}>
+                            <Typography variant='subtitle1' sx={{ color: "text.secondary" }}>Nov 2022 ‐ Sep 2023</Typography>
+                            <Typography variant='h5' sx={{ fontWeight: "bold" }}>Machine Learning Developer</Typography>
+                            <Typography variant="h4" component="span" sx={{ color: "secondary.main", fontWeight: "bold" }}>
+                                OpenAI
+                            </Typography>
+                            <Typography variant='h6' sx={{ fontWeight: "bold" }}>US - Remote</Typography>
+                            <Typography variant='h6'>
+                                <ul>
+                                    <li>Ensured high-quality outputs and results by working closely with approx. 10 AI trainers and 5 LLM prompt engineers to
+improve the model resilience against hallucinations and factual inaccuracies.</li>
+                                    <li>Worked on the Reinforcement Learning Human Feedback models.</li>
+                                </ul></Typography>
+                        </TimelineContent>
+                    </TimelineItem>
+                                                        <TimelineItem>
                         <TimelineSeparator >
                             <TimelineDot color="primary" variant="outlined" sx={{ width: "150px", height: "150px", overflow: "hidden", border: "2px solid #bdbdbd", padding: "15px 5px" }}>
                                 <Image
