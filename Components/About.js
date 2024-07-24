@@ -37,8 +37,10 @@ function About() {
                                     alt="Picture of the author"
                                     width={360}
                                 // height={300}
-
-
+                                    style={{
+                                      objectFit: "cover",
+                                      objectPosition: "center",
+                                    }}
                                 />
                             </Box >
 
