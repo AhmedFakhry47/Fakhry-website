@@ -44,6 +44,7 @@ function TimelineSection() {
                                     src={knuphoto}
                                     alt="Picture of the author"
                                     width = {75}
+                                    height = {75}
                                 />
                             </TimelineDot>
                             <TimelineConnector sx={{ height: "100px" }} />
@@ -71,7 +72,7 @@ innovative technologies and optimize existing surveillance systems.</li>
                                     src={openaiphoto}
                                     alt="Picture of the author"
                                     width={130}
-
+                            
                                 />
                             </TimelineDot>
                             <TimelineConnector sx={{ height: "100px" }} />
