@@ -31,11 +31,11 @@ function About() {
                         <div data-aos="zoom-in"
                             data-aos-mirror="true"
                         >
-                            <Box width="300px" height="300px" border="3px solid white" borderRadius="50%" overflow="hidden" mt="25px" margin="auto" alighItems="center" justifyContent="center" >
+                            <Box width="300px" height="300px" border="3px solid white" borderRadius="50%" overflow="hidden" mt="50px" margin="auto" alighItems="center" justifyContent="center" >
                                 <Image
                                     src={profile}
                                     alt="Picture of the author"
-                                    // width={360}
+                                    width={260}
                                 // height={300}
                                     style={{
                                       objectFit: "cover",
