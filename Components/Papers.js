@@ -11,7 +11,7 @@ function Papers() {
     const colorMode = React.useContext(ColorModeContext);
     const theme = useTheme();
     return (
-        <Box id="papers" py="90px" textAlign="center" backgroundColor="primary" color="white">
+        <Box id="papers" py="90px" textAlign="center" backgroundColor="primary" color="black">
             <Container>
                 <Typography variant='h2' sx={{ textAlign: "center", fontWeight: "bold" }}>Papers</Typography>
                 <Box my="40px">
