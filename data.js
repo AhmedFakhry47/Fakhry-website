@@ -32,7 +32,7 @@ export const projectsdata = [{
     "id": 4,
     "title": "ChatGPT Agent for Web Scraping",
     "body": "Large Language Models ‐ Open Source",
-    "image": "https://raw.githubusercontent.com/AhmedFakhry47/Fakhry-website/main/public/assets/chatgptagent.gif",
+    "image": "https://raw.githubusercontent.com/AhmedFakhry47/Fakhry-website/main/public/assets/chatgptagentproject.gif",
     "pdf": "",
     "code": "https://github.com/AhmedFakhry47/chatgpt-scraper",
     "poster": ""
