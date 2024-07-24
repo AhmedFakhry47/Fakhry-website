@@ -17,7 +17,7 @@ function Skill() {
     const colorMode = React.useContext(ColorModeContext);
     const theme = useTheme();
     return (
-        <Box id="skill" backgroundColor="background.primary" color="black" py="50px">
+        <Box id="skill" backgroundColor="background.secondary" color="black" py="50px">
             <Container>
                 <Typography variant='h2' sx={{ textAlign: "center", fontWeight: "bold" }}>SKILLS</Typography>
                 <Typography variant='h6' sx={{ textAlign: "center" }}>Below are some of my skills, and I'm always looking to learn more.</Typography>
