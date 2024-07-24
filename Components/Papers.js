@@ -17,7 +17,7 @@ function Papers() {
                 <Box my="40px">
                     <Box my="20px">
                         <a href="https://arxiv.org/abs/2011.13320" className={styles.linkText} target="_blank">
-                            <Typography variant='h5' sx={{ color: "secondary.main", fontWeight: "bolder" }}>Virufy: Global Applicability of Crowdsourced and Clinical Datasets for AI Detection of COVID‐19 from Cough Audio
+                            <Typography variant='h5' sx={{ color: "primary", fontWeight: "bolder" }}>Virufy: Global Applicability of Crowdsourced and Clinical Datasets for AI Detection of COVID‐19 from Cough Audio
                                 Samples </Typography>
                         </a>
                         <Typography variant='h6'>Nov 2020, Awaiting AE Recommendation from IEEE TAI.</Typography>
