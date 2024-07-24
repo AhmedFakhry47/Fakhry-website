@@ -13,7 +13,7 @@ export const projectsdata = [{
 {
     "id": 2,
     "title": "Drone Video Anomaly Detection - Traffic Surveillance",
-    "body": "DEEP LEARNING ‐ CLOSED SOURCE",
+    "body": "DEEP LEARNING ‐ OPEN SOURCE",
     "image": "https://raw.githubusercontent.com/AhmedFakhry47/Fakhry-website/main/public/assets/videoanomalydemo.gif",
     "pdf": "",
     "code": "",
@@ -21,9 +21,9 @@ export const projectsdata = [{
 },
 {
     "id": 3,
-    "title": "Reviews to Stars",
-    "body": "DEEP LEARNING ‐ OPEN SOURCE",
-    "image": "https://www.bu.edu/questrom/files/2018/10/Four-Star-Reviews-Daniella-Kupor.jpg",
+    "title": "Key Frame Selection",
+    "body": "DEEP LEARNING ‐ CLOSED SOURCE",
+    "image": "https://raw.githubusercontent.com/AhmedFakhry47/Fakhry-website/main/public/assets/keyframeselection.gif",
     "pdf": "",
     "code": "",
     "poster": ""
