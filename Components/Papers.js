@@ -32,7 +32,7 @@ function Papers() {
                         <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/fakhry21_interspeech.pdf" className={styles.linkText} target="_blank">
                             <Typography variant='h5' sx={{ color: "secondary.main", fontWeight: "bolder" }}>Virufy: A Multi‐Branch Deep Learning Network for Automated Detection of COVID‐19 </Typography>
                         </a>
-                        <Typography variant='h6'>March 2021,Interspeech Conference 2021</Typography>
+                        <Typography variant='h6'>March 2021, Interspeech Conference 2021</Typography>
                         <a href='https://www.isca-speech.org/archive/pdfs/interspeech_2021/fakhry21_interspeech.pdf.' className={styles.linkText} target="_blank">
                             <Box display="flex" justifyContent="center">
                                 <Typography variant='h5' sx={{ color: "secondary.main", mx: 1 }}>Download</Typography>
