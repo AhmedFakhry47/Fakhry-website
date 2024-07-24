@@ -39,7 +39,7 @@ function TimelineSection() {
                 <Timeline position="alternate" sx={{ my: 5, display: { xs: "none", sm: "block" } }}>
                     <TimelineItem>
                         <TimelineSeparator >
-                            <TimelineDot color="primary" variant="outlined" sx={{ width: "150px", height: "150px", overflow: "hidden", border: "2px solid #bdbdbd", padding: "15px 5px", alighItems:"contain", justifyContent:"center" }}>
+                            <TimelineDot color="primary" variant="outlined" sx={{ width: "150px", height: "150px", overflow: "hidden", border: "2px solid #bdbdbd", alighItems:"contain", justifyContent:"center" }}>
                                 <Image
                                     src={knuphoto}
                                     alt="Picture of the author"
