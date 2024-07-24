@@ -43,7 +43,7 @@ function TimelineSection() {
                                 <Image
                                     src={knuphoto}
                                     alt="Picture of the author"
-                                    width = {175}
+                                    width = {200}
                                     height = {200}
                                 />
                             </TimelineDot>
