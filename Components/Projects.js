@@ -22,7 +22,7 @@ function Projects({ id, title, body, pdf, code, poster, image }) {
                     {/* <Box className={styles.boxtext}>
                         <Typography variant='subtitle1'>VIEW PROJECT</Typography>
                     </Box> */}
-                    <Box className={styles.boxbody}> <Typography sx={{ color: "white" }} className={styles.projecttext}>{title}</Typography>
+                    <Box className={styles.boxbody}> <Typography sx={{ color: "primary" }} className={styles.projecttext}>{title}</Typography>
                         <Typography className={styles.projectbody}>{body}</Typography></Box>
 
 
