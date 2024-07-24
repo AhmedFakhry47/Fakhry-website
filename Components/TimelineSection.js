@@ -39,7 +39,7 @@ function TimelineSection() {
                 <Timeline position="alternate" sx={{ my: 5, display: { xs: "none", sm: "block" } }}>
                     <TimelineItem>
                         <TimelineSeparator >
-                            <TimelineDot color="primary" variant="outlined" sx={{ width: "150px", height: "150px", overflow: "hidden", border: "2px solid #bdbdbd", padding: "15px 5px" alighItems="contain" justifyContent="center" }}>
+                            <TimelineDot color="primary" variant="outlined" sx={{ width: "150px", height: "150px", overflow: "hidden", border: "2px solid #bdbdbd", padding: "15px 5px", alighItems:"contain", justifyContent:"center" }}>
                                 <Image
                                     src={knuphoto}
                                     alt="Picture of the author"
@@ -88,32 +88,6 @@ innovative technologies and optimize existing surveillance systems.</li>
                                 <ul>
                                     <li>Ensured high-quality outputs and results by working closely with approx. 10 AI trainers and 5 LLM prompt engineers to
 improve the model resilience against hallucinations and factual inaccuracies.</li>
-                                    <li>Worked on the Reinforcement Learning Human Feedback models.</li>
-                                </ul></Typography>
-                        </TimelineContent>
-                    </TimelineItem>
-                                                        <TimelineItem>
-                        <TimelineSeparator >
-                            <TimelineDot color="primary" variant="outlined" sx={{ width: "150px", height: "150px", overflow: "hidden", border: "2px solid #bdbdbd", padding: "15px 5px" }}>
-                                <Image
-                                    src={openaiphoto}
-                                    alt="Picture of the author"
-                                    width={130}
-
-                                />
-                            </TimelineDot>
-                            <TimelineConnector sx={{ height: "100px" }} />
-                        </TimelineSeparator>
-                        <TimelineContent sx={{ py: '12px', px: 2 }}>
-                            <Typography variant='subtitle1' sx={{ color: "text.secondary" }}>Nov 2022 ‐ Now</Typography>
-                            <Typography variant='h5' sx={{ fontWeight: "bold" }}>Machine Learning Developer</Typography>
-                            <Typography variant="h4" component="span" sx={{ color: "secondary.main", fontWeight: "bold" }}>
-                                OpenAI
-                            </Typography>
-                            <Typography variant='h6' sx={{ fontWeight: "bold" }}>US - Remote</Typography>
-                            <Typography variant='h6'>
-                                <ul>
-                                    <li>Working on the tether project.</li>
                                     <li>Worked on the Reinforcement Learning Human Feedback models.</li>
                                 </ul></Typography>
                         </TimelineContent>
