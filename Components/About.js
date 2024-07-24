@@ -36,9 +36,9 @@ function About() {
                                     src={profile}
                                     alt="Picture of the author"
                                     width={150}
-                                // height={300}
-                                    objectFit= "none"
-                                    objectPosition= "center"
+                                    height={150}
+                                    // objectFit= "none"
+                                    // objectPosition= "center"
                                 />
                             </Box >
 
