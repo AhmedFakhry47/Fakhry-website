@@ -25,7 +25,7 @@ function Skill() {
                     <Grid item xs={12} sm={6} md={6} sx={{ display: "flex", justifyContent: "center", flexDirection: "column", mt: "30px" }}>
                         <CodeIcon sx={{ padding: "20px", textAlign: "center", border: "2px solid white", borderRadius: "50%", backgroundColor: "white", color: "secondary.main", width: "120px", height: "120px", overflow: "hidden", mx: "auto" }} />
                         <Typography variant='h4' sx={{ textAlign: "center", my: 2, fontWeight: "bold" }}>Programming Languages</Typography>
-                        <Typography variant='h6' sx={{ textAlign: "center" }}>Python,C/C++
+                        <Typography variant='h6' sx={{ textAlign: "center" }}>Python, C/C++, Java
                         </Typography>
                     </Grid>
                     <Grid item xs={12} sm={6} md={6} sx={{ display: "flex", justifyContent: "center", flexDirection: "column", mt: "30px" }}>
@@ -37,13 +37,13 @@ function Skill() {
                     <Grid item xs={12} sm={6} md={6} sx={{ display: "flex", justifyContent: "center", flexDirection: "column", mt: "30px" }}>
                         <StorageIcon sx={{ padding: "20px", textAlign: "center", border: "2px solid white", borderRadius: "50%", backgroundColor: "white", color: "secondary.main", width: "120px", height: "120px", overflow: "hidden", mx: "auto" }} />
                         <Typography variant='h4' sx={{ textAlign: "center", my: 2, fontWeight: "bold" }}>Databases</Typography>
-                        <Typography variant='h6' sx={{ textAlign: "center" }}> SQL database,MongoDB
+                        <Typography variant='h6' sx={{ textAlign: "center" }}> SQL database, MongoDB
                         </Typography>
                     </Grid>
                     <Grid item xs={12} sm={6} md={6} sx={{ display: "flex", justifyContent: "center", flexDirection: "column", mt: "30px" }}>
                         <ComputerIcon sx={{ padding: "20px", textAlign: "center", border: "2px solid white", borderRadius: "50%", backgroundColor: "white", color: "secondary.main", width: "120px", height: "120px", overflow: "hidden", mx: "auto" }} />
                         <Typography variant='h4' sx={{ textAlign: "center", my: 2, fontWeight: "bold" }}>Others</Typography>
-                        <Typography variant='h6' sx={{ textAlign: "center" }}> Linux,Git,OOP Fundamentals,Matlab
+                        <Typography variant='h6' sx={{ textAlign: "center" }}> Linux, Git, OOP Fundamentals, Matlab
                         </Typography>
                     </Grid>
 
