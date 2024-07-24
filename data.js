@@ -12,9 +12,9 @@ export const projectsdata = [{
 },
 {
     "id": 2,
-    "title": "Automated Interpretation of MRI‐Images",
-    "body": "DEEP LEARNING ‐ OPEN SOURCE",
-    "image": "https://news.stanford.edu/wp-content/uploads/2017/10/bids.jpg",
+    "title": "Drone Video Anomaly Detection - Traffic Surveillance",
+    "body": "DEEP LEARNING ‐ CLOSED SOURCE",
+    "image": "https://raw.githubusercontent.com/AhmedFakhry47/Fakhry-website/main/public/assets/droneanomaly.png",
     "pdf": "",
     "code": "",
     "poster": ""
