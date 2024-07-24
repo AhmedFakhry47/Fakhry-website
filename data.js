@@ -14,7 +14,7 @@ export const projectsdata = [{
     "id": 2,
     "title": "Drone Video Anomaly Detection - Traffic Surveillance",
     "body": "DEEP LEARNING ‐ CLOSED SOURCE",
-    "image": "https://raw.githubusercontent.com/AhmedFakhry47/Fakhry-website/main/public/assets/droneanomaly.png",
+    "image": "https://raw.githubusercontent.com/AhmedFakhry47/Fakhry-website/main/public/assets/videoanomalydemo.gif",
     "pdf": "",
     "code": "",
     "poster": ""
