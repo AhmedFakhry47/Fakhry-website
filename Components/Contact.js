@@ -47,7 +47,7 @@ function Contact() {
                     <PhoneIphoneIcon sx={{ mt: "5px" }} />
                     {/* <Typography variant='h5' >:</Typography> */}
                     <Link href=""  >
-                        <Typography variant='h5' sx={{ color: "secondary.main" }} className={styles.linkText}>(+20) 10-9813-0059</Typography>
+                        <Typography variant='h5' sx={{ color: "secondary.main" }} className={styles.linkText}>(+82) 10-8465-2905</Typography>
                     </Link>
                 </Box>
                 <Typography variant='h6' sx={{ mt: 4, color: "text.whitegray" }}>...or use the following form</Typography>
