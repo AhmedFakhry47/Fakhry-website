@@ -32,7 +32,7 @@ function Papers() {
                         <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/fakhry21_interspeech.pdf" className={styles.linkText} target="_blank">
                             <Typography variant='h5' sx={{ color: "secondary.main", fontWeight: "bolder" }}>Virufy: A Multi‐Branch Deep Learning Network for Automated Detection of COVID‐19 </Typography>
                         </a>
-                        <Typography variant='h6'>March 2021,Interspeech conference 2021</Typography>
+                        <Typography variant='h6'>March 2021,Interspeech Conference 2021</Typography>
                         <a href='https://www.isca-speech.org/archive/pdfs/interspeech_2021/fakhry21_interspeech.pdf.' className={styles.linkText} target="_blank">
                             <Box display="flex" justifyContent="center">
                                 <Typography variant='h5' sx={{ color: "secondary.main", mx: 1 }}>Download</Typography>
@@ -40,7 +40,33 @@ function Papers() {
                             </Box>
                         </a>
                     </Box>
+                    <Box my="20px">
+                        <a href="https://arxiv.org/pdf/2310.03611" className={styles.linkText} target="_blank">
+                            <Typography variant='h5' sx={{ color: "secondary.main", fontWeight: "bolder" }}>GENER: A Parallel Layer Deep Learning Network To Detect Gene-Gene Interactions From Gene Expression Data </Typography>
+                        </a>
+                        <Typography variant='h6'>October 2023, arxiv E-print</Typography>
+                        <a href='https://arxiv.org/pdf/2310.03611' className={styles.linkText} target="_blank">
+                            <Box display="flex" justifyContent="center">
+                                <Typography variant='h5' sx={{ color: "secondary.main", mx: 1 }}>Download</Typography>
+                                <DownloadIcon sx={{ color: "secondary.main", width: "26px", height: "26px" }} className={styles.iconLink} />
+                            </Box>
+                        </a>
+                    </Box>
+                    <Box my="20px">
+                        <a href="" className={styles.linkText} target="_blank">
+                            <Typography variant='h5' sx={{ color: "secondary.main", fontWeight: "bolder" }}>Enhancing Few-Shot Video Anomaly Detection with Key-Frame Selection and Relational Cross Transformers </Typography>
+                        </a>
+                        <Typography variant='h6'>June 2024, AVSS Conference 2024</Typography>
+                        <a href='' className={styles.linkText} target="_blank">
+                            <Box display="flex" justifyContent="center">
+                                <Typography variant='h5' sx={{ color: "secondary.main", mx: 1 }}>Download</Typography>
+                                <DownloadIcon sx={{ color: "secondary.main", width: "26px", height: "26px" }} className={styles.iconLink} />
+                            </Box>
+                        </a>
+                    </Box>
+
                 </Box>
+                                    
 
             </Container>
 
