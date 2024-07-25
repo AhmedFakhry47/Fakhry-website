@@ -51,7 +51,7 @@ function TimelineSection() {
                             <Typography variant='subtitle1' sx={{ color: "text.secondary" }}>Sep 2023 ‐ Now</Typography>
                             <Typography variant='h5' sx={{ fontWeight: "bold" }}>AI Research Scientist</Typography>
                             <Typography variant="h4" component="span" sx={{ color: "secondary.main", fontWeight: "bold" }}>
-                                Kyungpook National University
+                                KNU
                             </Typography>
                             <Typography variant='h6' sx={{ fontWeight: "bold" }}>Daegu, South Korea</Typography>
                             <Typography variant='h6'>
