@@ -70,7 +70,7 @@ innovative technologies and optimize existing surveillance systems.</li>
                                 <Image
                                     src={openaiphoto}
                                     alt="Picture of the author"
-                                    width={130}
+                                    width={300}
                             
                                 />
                             </TimelineDot>
