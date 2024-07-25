@@ -44,7 +44,7 @@ function TimelineSection() {
                                     src={knuphoto}
                                     alt="Picture of the author"
                                     width = {135}
-                                    height = {35}
+                                    height = {135}
                                 />
                             </TimelineDot>
                             <TimelineConnector sx={{ height: "100px" }} />
